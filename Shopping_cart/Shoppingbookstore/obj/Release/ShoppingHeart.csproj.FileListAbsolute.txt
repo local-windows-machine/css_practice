@@ -1,4 +1,0 @@
-F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\bin\ShoppingHeart.dll
-F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\bin\ShoppingHeart.pdb
-F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\obj\Release\ShoppingHeart.dll
-F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\obj\Release\ShoppingHeart.pdb
